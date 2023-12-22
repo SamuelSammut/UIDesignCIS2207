@@ -1,5 +1,5 @@
 1. Funtionality
-1.1 Automate Marking Feature:
+1.1 Marking Feature:
 1.1.1 The testing platform implements automated test question marking.
 1.1.2 The platforms allows lecturer to grade exams online.
 
