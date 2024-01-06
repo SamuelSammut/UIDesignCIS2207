@@ -1,0 +1,38 @@
+Benchmark Tasks:
+
+	Student:
+		1. Find the next upcoming exam and tell me its details (not the active one).
+		2. Find the past Mathematics for Copmuting Test Exam and tell me its details.
+		3. Start and complete the active exam.
+	Lecturer:
+		1. Create a new exam
+		2. Find exam of student index 4 and correct it (change a mark value)
+	Admin:
+		1. Create an account
+		2. Edit account details
+		3. Detele account
+		4. Create a group
+		5. Delete Group
+		6. Edit group
+What we should take note of:
+	Student:
+		1. Ask what they think the flag does
+		2. Ask how they think the question box works
+
+Survey:
+1. What is your age?
+2. Gender?
+3. Occupation? Text box to fill in what they work or what they do 
+4. Do you considere yourself software literate?
+5. Education? A list of education levels...
+6. What was your overall experience using the prototype? VP, P, N, G, VG
+7. How relevent do you think the prototype is to the task domain, i.e., how relevant is it to exam taking and correcting? VP, P, N, G, VG
+8. How relevant and clear where the icons and other buttons to their actual use? VP, P, N, G, VG
+9. How clear was the syntax for input field? VP, P, N, G, VG
+10. What do you think of the clarity of the design? VP, P, N, G, VG
+11. How efficient did you feel the actions where, i.e., how quick and easy was it to carry out an action? VP, P, N, G, VG
+12. How satisfying was it to use the prototype? VP, P, N, G, VG
+13. How aesstehticaly pleasing was the visual design? VP, P, N, G, VG
+14. How clear were the instructions? Did you ever find yourself unsure what to do next? text
+15. Which features do you think are the most important in the prototype? text
+16. General feedback: text
