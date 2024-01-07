@@ -1,0 +1,33 @@
+Samwel Sammut's Test Subject Report
+
+Benchmark Tasks:
+
+	Student:
+		1. Find the next upcoming exam and tell me its details (not the active one).
+			Subject found it immediately and understood.
+		2. Find the past Mathematics for Copmuting Test Exam and tell me its details.
+			Suject found it immediately .
+		3. Start and complete the active exam.
+			Test subject understood the function of arrows for shifting different questions, the flag feature, the questino grid, expand feature and difference between types of buttons without any prompts.
+	Lecturer:
+		1. Create a new exam
+			Test subject struggled for a few seconds to find where to click to create an exam, but eventually found it without prompt.
+		2. Find exam of student index 4 and correct it (change a mark value)
+			Subject completed the task without issue
+	Admin:
+		1. Create an account
+			No issues.
+		2. Edit account details
+			No issues.
+		3. Detele account
+			No issues.
+		4. Create a group	
+			No issues.
+		5. Delete Group
+			No issues.
+		6. Edit group
+			No issues.
+
+Other notes:
+- Overll subject understood the functionality with almost no prompts. 
+- They found features such as flagging and questions grid intuitive and easy to use.
