@@ -1,0 +1,39 @@
+Christine Scicluna's Test Subject Report
+
+Benchmark Tasks:
+
+Student:
+1. Find the next upcoming exam and tell me its details (not the active one).
+The test subject correctly identified the next upcoming exam without any difficulties.
+
+2. Find the past Mathematics for Computing Test Exam and tell me its details.
+The test subject correctly identified the details of the exam without any difficulties.
+
+3. Start and complete the active exam.
+The flagging feature was unclear to the test subject. They managed to use all other features and complete the exam without any other difficulties.
+
+Lecturer:
+1. Create a new exam
+It took the test subject a few minutes to find the create exam button.
+
+2. Find exam of student index 4 and correct it (change a mark value)
+The test subject completed the task without any difficulties.
+
+Admin:
+1. Create an account
+The test subject completed the task without any difficulties.
+2. Edit account details
+The test subject completed the task without any difficulties.
+3. Delete account
+The test subject completed the task without any difficulties.
+4. Create a group
+The test subject completed the task without any difficulties.
+5. Delete Group
+The test subject completed the task without any difficulties.
+6. Edit group
+The test subject completed the task without any difficulties.
+
+General notes:
+The test subject was not sure what the flagging button did.
+The test subject tried to click on the actual choices in multiple choice/true or false questions rather than the checkbox/radio button.
+The test subject easily understood all the other features.
