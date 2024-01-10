@@ -1,8 +1,10 @@
+Consent statement: By responding to these questions, you agree for the data to be used (anonymously) for the purpose of the UI Design project as part of the university unit's assessment. 
+
 Benchmark Tasks:
 
 	Student:
 		1. Find the next upcoming exam and tell me its details (not the active one).
-		2. Find the past Mathematics for Copmuting Test Exam and tell me its details.
+		2. Find the past Mathematics for Computing Test Exam and tell me its details.
 		3. Start and complete the active exam.
 	Lecturer:
 		1. Create a new exam
