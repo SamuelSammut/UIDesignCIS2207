@@ -32,3 +32,4 @@ boxes or something like that
 			-no issue
 
 Other notes:
+	subject tried to click on the answer text instead of checkbox/radio buttons
