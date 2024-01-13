@@ -1,0 +1,44 @@
+Jan Rzodek’s  test subject report
+
+Benchmark Tasks:
+
+Student:
+1. Find the next upcoming exam and tell me its details (not the active one).
+	The subject found info withnout problem.
+
+2. Find the past Mathematics for Computing Test Exam and tell me its details.
+	The subject found info and understood.
+
+3. Start and complete the active exam.
+	The subject started and completed the test without any major problems.
+
+Lecturer:
+1. Create a new exam
+   The subject have a minor issue with found „exam create“ button
+
+2. Find exam of student index 4 and correct it (change a mark value)
+	The subject corectly found exam and correct it.
+
+Admin:
+1. Create an account
+	The subject create an accout withnout problem.
+2. Edit account details
+   	The subject edit an accout withnout problem.
+3. Detele account
+   	The subject delete  accout withnout problem.
+4. Create a group
+   	The subject create a group withnout problem.
+5. Delete Group
+   	The subject delete a group withnout problem.
+6. Edit group
+   	The subject edit a group withnout problem.
+
+What we should take note of:
+
+Student:
+1. Ask what they think the flag does
+	The subject have no idea what flag doing.
+2. Ask how they think the question box works
+   The subject knew how they worked 
+
+		
