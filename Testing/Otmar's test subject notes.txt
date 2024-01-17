@@ -1,0 +1,35 @@
+Samwel Sammut's Test Subject Report
+
+Benchmark Tasks:
+
+	Student:
+		1. Find the next upcoming exam and tell me its details (not the active one).
+			-no issue, oriented quickly
+		2. Find the past Mathematics for Copmuting Test Exam and tell me its details.
+			-no issue
+		3. Start and complete the active exam.
+			-fully understands exam screen, orients well through the exam questions, understand navigation box and features 
+			
+	Lecturer:
+		1. Create a new exam
+			-no issue
+		2. Find an exam of student index 4 and correct it (change a mark value)
+			-confused, wich test to select?
+			
+	Admin:		
+		1. Create an account
+			-no issue
+		2. Edit account details
+			-not clear how to select account (meant edit button would be at the line of the account for each account)
+		3. Detele account
+			-no issue
+		4. Create a group	
+			-again same issue, not clear how to select student account (meant there will be check
+boxes or something like that
+		5. Delete Group
+			-no issue
+		6. Edit group
+			-no issue
+
+Other notes:
+	subject tried to click on the answer text instead of checkbox/radio buttons
